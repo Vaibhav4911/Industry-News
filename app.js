@@ -9,7 +9,7 @@ function fetchNewsData() {
       data.forEach(article => {
         const articleElement = document.createElement('article');
         const titleElement = document.createElement('h2');
-        const
+
 
  descriptionElement = document.createElement('p');
         const imageElement = document.createElement('img');
